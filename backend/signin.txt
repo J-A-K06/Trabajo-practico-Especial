@@ -1,0 +1,22 @@
+user.input.email = []
+user.input.NdU = []
+user.input.contraseña = []
+
+pull email.database
+pull NdU.database
+pull contraseña.database
+
+if (user.input.email === email.database)
+	email approved
+else:
+	email not registered. please try again
+
+if (user.input.NdU === NdU.database)
+	username approved
+else:
+	username not found or not registered with this email. please try again
+
+if (user.input.contraseña === contraseña.database)
+	password is correct
+else:
+	password is incorrect. Please try again
