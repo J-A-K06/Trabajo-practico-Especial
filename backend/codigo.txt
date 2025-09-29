@@ -1,0 +1,5 @@
+if user != registered:
+	send(user) -> signup.txt
+
+if user = registered
+	send(user) -> signin.txt
