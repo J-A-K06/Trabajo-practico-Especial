@@ -1,0 +1,3 @@
+Tema: Oscuro o claro.
+Fuente: Times New Roman
+Lenguaje: Español (LA), Español (ES), Ingles (US)
