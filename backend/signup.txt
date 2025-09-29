@@ -1,0 +1,21 @@
+user.input.email = []
+user.input.NdU = []
+user.input.contraseña.OG = []
+user.input.contraseña.2 = []
+
+if (user.input.contraseña.OG === user.input.contraseña.2){
+    passwords verified. Allow sign up
+   } else: {
+   passwords unverified
+   print("Contraseña es incorrecto. Por favor ingresa contraseña devuelta")
+   }
+
+send [VERIFICATION CODE] to [user.input.email]
+
+user.input.verification = []
+if ([VERIFICATION CODE] === [user.input.email]) {
+    Email Verified. Send user to Panaderia
+	} else {
+     Verification unseccesful.
+     print("Verificacion incorrecto. Por favor intenta devuelta")
+	}
