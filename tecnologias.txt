@@ -1,0 +1,4 @@
+Proposiciones para agregar al proyecto: 
+Responsividad (Boostrap o Grid)
+JavaScript (+Interactividad y dinamismo)
+SQL (Permite almacenar nombres de usuario, contraseñas, entre otros)
