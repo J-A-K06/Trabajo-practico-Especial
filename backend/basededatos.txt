@@ -1,0 +1,3 @@
+Email de usuario = email.database
+Nombre de Usuario = NdU.database
+Contraseña de Usuario = contraseña.database
